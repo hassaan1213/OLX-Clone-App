@@ -1,6 +1,7 @@
 # OLX-App-Clone
 
-#This olx-clone is made with the help of bootstrapped! git remote add origin https://github.com/hassaan1213/OLX-Clone-App.git
+# This olx-clone is made with the help of bootstrapped!
+# git remote add origin https://github.com/hassaan1213/OLX-Clone-App.git
 
 ## Available Scripts
 
