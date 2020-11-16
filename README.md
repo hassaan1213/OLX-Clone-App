@@ -1,11 +1,14 @@
 # OLX-App-Clone
 
-# This olx-clone is made with the help of bootstrapped!
-# git remote add origin https://github.com/hassaan1213/OLX-Clone-App.git
+### `This olx-clone is made with the help of bootstrapped!`
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `git remote add origin https://github.com/hassaan1213/OLX-Clone-App.git`
+
+### `cd project-name`
 
 ### `npm start`
 
