@@ -1,5 +1,7 @@
 # OLX-App-Clone
 
+# This app is not mobile friendly so make sure your mobile is on desktop mode.
+
 # Here's the Hostinglink https://olx-clone-app-24d7a.web.app/
 
 ### `This olx-clone is made with the help of bootstrapped!`
